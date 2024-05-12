@@ -10,7 +10,7 @@ public class TestConnection {
 		final String username = "root";
 		
 		// password
-		final String password = "Kteasley";
+		final String password = "Password";
 		
 		try {
 			Connection myConnection = DriverManager.getConnection(database, username, password);
